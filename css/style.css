@@ -186,7 +186,7 @@
 
   .list_menu.active::before {
     content: "";
-    background: url(/image/img-avancera-logo.svg);
+    background: url(image/img-avancera-logo.svg);
     width: 114px;
     display: block;
     position: relative;
@@ -583,7 +583,7 @@
   content: "";
   width: 167px;
   height: 120px;
-  background-image: url(/image/Tfigure.svg);
+  background-image: url(image/Tfigure.svg);
   display: block;
   position: absolute;
   top: 0px;
@@ -773,7 +773,7 @@
 
 .area1::after {
   content: "";
-  background-image: url(/image/img-border-input.svg);
+  background-image: url(image/img-border-input.svg);
   width: 37px;
   height: 37px;
   display: block;
@@ -785,7 +785,7 @@
 
 .area1::before {
   content: "";
-  background-image: url(/image/img-border-input-right.svg);
+  background-image: url(image/img-border-input-right.svg);
   width: 37px;
   height: 37px;
   display: block;
@@ -941,7 +941,7 @@ input:focus::placeholder {
 
   .area1::before {
     content: "";
-    background-image: url(/image/img-border-input-right.svg);
+    background-image: url(image/img-border-input-right.svg);
     width: 37px;
     height: 37px;
     display: block;
@@ -1023,7 +1023,7 @@ input:focus::placeholder {
 
   .area1::before {
     content: "";
-    background-image: url(/image/img-border-input-right.svg);
+    background-image: url(image/img-border-input-right.svg);
     width: 37px;
     height: 37px;
     display: block;
@@ -1078,7 +1078,7 @@ input:focus::placeholder {
 
   .area1::before {
     content: "";
-    background-image: url(/image/img-border-input-right.svg);
+    background-image: url(image/img-border-input-right.svg);
     width: 37px;
     height: 37px;
     display: block;
@@ -1095,7 +1095,7 @@ input:focus::placeholder {
 
   .area1::before {
     content: "";
-    background-image: url(/image/img-border-input-right.svg);
+    background-image: url(image/img-border-input-right.svg);
     width: 37px;
     height: 37px;
     display: block;
@@ -1112,7 +1112,7 @@ input:focus::placeholder {
 
   .area1::before {
     content: "";
-    background-image: url(/image/img-border-input-right.svg);
+    background-image: url(image/img-border-input-right.svg);
     width: 37px;
     height: 37px;
     display: block;
